@@ -1,6 +1,8 @@
-# Library Management System - LazyCoders
+# Library-Management-System-Rails
 
-This is the ReadMe file for the LMS system developed by the team LazyCoders as part of the Ruby on Rails assignment in Object Oriented Design and Development. Deployment of the LMS system has been done on Heroku with Postgres database. This file contains information you might find useful while reviewing our work.  
+A web application for managing the library and its operations. This was my project in the "Object Oriented Design and Development" course. 
+
+Deployed a web application using Ruby on Rails and Heroku that allows students to checkout & return books, librarians to view overdue fines and admin to CRUD libraries, books, users and view borrowing history & fines. Integrated 3rd-party ruby gems like Devise and Pundit to make the app more functional.
 
 * <strong>Heroku App Link:</strong> https://glacial-reaches-87041.herokuapp.com/
 
